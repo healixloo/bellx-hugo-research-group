@@ -18,7 +18,7 @@ publication_types: ['0']
 publication: ''
 publication_short: ''
 
-abstract: publication list.
+abstract: This link is redirected to Healix's publications in real time.
 
 # Summary. An optional shortened abstract.
 summary: See details by clicking the link.
@@ -31,13 +31,13 @@ links:
   - name: Custom Link
     url: https://scholar.google.com/citations?user=1W_3YjAAAAAJ&hl=en
 url_pdf: https://scholar.google.com/citations?user=1W_3YjAAAAAJ&hl=en
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -62,4 +62,4 @@ projects:
 slides:
 ---
 
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
+Publications are linked in [google scholar](https://scholar.google.com/citations?user=1W_3YjAAAAAJ&hl=en).
