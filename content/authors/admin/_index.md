@@ -6,7 +6,7 @@ title: Healix Loo
 superuser: true
 
 # Role/position
-role: Bioinofrmatian of FLI
+role: Bioinofrmatian at FLI
 
 # Organizations/Affiliations
 organizations:
