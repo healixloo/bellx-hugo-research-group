@@ -1,5 +1,5 @@
 ---
-title: 'An example journal article'
+title: 'I don't want to attach publications one by one'
 authors:
   - admin
   - Robert Ford

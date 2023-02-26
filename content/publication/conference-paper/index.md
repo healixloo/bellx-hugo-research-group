@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Please see my goog scholar instead'
 authors:
   - admin
   - Robert Ford
