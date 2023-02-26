@@ -1,8 +1,8 @@
 ---
-title: BulkRNAseq visualization for paper model
+title: Readme form for meta collection
 
 event: Access link
-event_url: https://gen100.leibniz-fli.de/shiny-odin/jlu/bulkRNAseq_model_20230224/
+event_url: https://gen100.leibniz-fli.de/shiny-odin/jlu/meta_template_wet_20230217/
 
 location: FLI
 address:
@@ -13,7 +13,7 @@ address:
   country: ''
 
 summary: An app release.
-abstract: 'This is an app trying to visualize the expression of the data published in paper model.'
+abstract: 'This is an app trying to help you form your readme in a well-defined templet.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
