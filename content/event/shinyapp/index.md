@@ -1,7 +1,7 @@
 ---
 title: BulkRNAseq visualization for paper model
 
-event:Shinyapp Release
+event: Shinyapp Release
 event_url: https://gen100.leibniz-fli.de/shiny-odin/jlu/bulkRNAseq_model_20230224/
 
 location: FLI
@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: Germany
 
-summary: An example event.
+summary: An app release.
 abstract: 'This is an app trying to visualize the data published in paper model.'
 
 # Talk start and end times.
