@@ -54,10 +54,9 @@ slides:
 projects:
 ---
 
-Slides can be added in a few ways:
+A few points should be noticed:
 
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+- **Internal usage for the time being** Not allowed to be spread for [_commercial usage_](https://www.indeed.com/career-advice/career-development/commercial-use) and use appropriate `citation` before official publication.
+- **Author contact** Contact the author by [email](healix.loo@onmail.com).
 
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+Hope the app can help you, enjoy!
