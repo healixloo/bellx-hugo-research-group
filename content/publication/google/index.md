@@ -30,7 +30,7 @@ featured: false
 links:
   - name: Custom Link
     url: https://scholar.google.com/citations?user=1W_3YjAAAAAJ&hl=en
-url_pdf: https://scholar.google.com/citations?user=1W_3YjAAAAAJ&hl=en
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
