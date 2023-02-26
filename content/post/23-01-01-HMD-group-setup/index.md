@@ -20,4 +20,5 @@ establish the microbiome as a robust biomarker of aging, and
 discover therapeutic candidates to alleviate aging and age-related diseases.
 H. Melike Dönertas completed her PhD at the University of Cambridge and EMBL-EBI under the supervision of Prof. Dame Janet Thornton and was previously an EMBO postdoctoral researcher hosted in the Evolutionary Biology/Microbiome-Host Interactions group at FLI led by Prof. Dario R. Valenzano. The junior research group is funded by the Carl Zeiss Foundation. It strengthens the research focus on microbiome and aging at FLI.
 
-[See more](https://www.leibniz-fli.de/news-events/details/new-research-group-on-ai-in-microbiome-and-aging-research-starts-at-fli)
+[News source](https://www.leibniz-fli.de/news-events/details/new-research-group-on-ai-in-microbiome-and-aging-research-starts-at-fli)
+[Go to Melike's lab website](https://donertas-group.github.io)
