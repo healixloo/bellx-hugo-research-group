@@ -1,5 +1,5 @@
 ---
-title: 'Google Scholar'
+title: 'Please check it in Google Scholar'
 authors:
   - admin
 date: '2023-04-07T00:00:00Z'
