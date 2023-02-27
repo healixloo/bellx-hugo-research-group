@@ -27,7 +27,7 @@ content:
   coordinates:
     latitude: '50.9271'
     longitude: '11.5892'
-  directions: Enter Building 1 and take the stairs to Office 206 on Floor 2
+  directions: Enter Building 1 and take the stairs to Office II on Floor 2
   office_hours:
     - 'Monday-Friday 10:00 to 18:00'
     - 'Saturday 14:00 to 17:00'
