@@ -13,7 +13,7 @@ address:
   country: ''
 
 summary: An app release.
-summary_url: https://gen100.leibniz-fli.de/shiny-odin/jlu/bulkRNAseq_model_20230224/
+event_url: https://gen100.leibniz-fli.de/shiny-odin/jlu/bulkRNAseq_model_20230224/
 abstract: 'This is an app trying to visualize the expression of the data published in paper model.'
 
 # Talk start and end times.
