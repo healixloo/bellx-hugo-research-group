@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: ''
 
-summary: '[An app release.](https://gen100.leibniz-fli.de/shiny-odin/jlu/meta_template_wet_20230217/)'
+summary: '[An app release](https://gen100.leibniz-fli.de/shiny-odin/jlu/meta_template_wet_20230217/)'
 abstract: 'This is an app trying to help you form your readme in a well-defined templet.'
 
 # Talk start and end times.

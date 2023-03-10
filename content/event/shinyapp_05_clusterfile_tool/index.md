@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: ''
 
-summary: '[An app release.](https://gen100.leibniz-fli.de/shiny-odin/jlu/clusterProfiler_20230303/)'
+summary: '[An app release](https://gen100.leibniz-fli.de/shiny-odin/jlu/clusterProfiler_20230303/)'
 abstract: 'This is an app trying to help you do gene set enrichment analysis by the package of clusterprofile.'
 
 # Talk start and end times.
