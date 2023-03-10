@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: ''
 
-summary: An app release.
+summary: '[An app release.](https://gen100.leibniz-fli.de/shiny-odin/jlu/atlas_scRNAseq_20220717/)'
 abstract: 'This is an app trying to help you check your interesting gene in our atals data.'
 
 # Talk start and end times.
