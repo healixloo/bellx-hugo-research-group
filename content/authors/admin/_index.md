@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Healix Loo
+title: Jing Lu
 
 # Is this the primary user of the site?
 superuser: true
