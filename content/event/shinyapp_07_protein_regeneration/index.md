@@ -2,7 +2,7 @@
 title: Single cell atlas of intestine in mouse
 
 event: Access link
-event_url: https://gen100.leibniz-fli.de//shiny-4-1/jlu/atlas_scRNAseq_20240717/
+event_url: https://gen100.leibniz-fli.de//shiny-4-1/jlu/regeneration_20220804/
 
 location: FLI
 address:
@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: ''
 
-summary: '[An app release](https://gen100.leibniz-fli.de//shiny-4-1/jlu/atlas_scRNAseq_20240717/)'
+summary: '[An app release](https://gen100.leibniz-fli.de//shiny-4-1/jlu/regeneration_20220804/)'
 abstract: 'This is an app trying to help you check your interesting gene in our atals data.'
 
 # Talk start and end times.

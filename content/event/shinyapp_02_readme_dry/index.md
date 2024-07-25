@@ -2,7 +2,7 @@
 title: Readme form for data collection
 
 event: Access link
-event_url: https://gen100.leibniz-fli.de/shiny-odin/jlu/meta_template_dry_20230217/
+event_url: https://gen100.leibniz-fli.de//shiny-3-6/jlu/meta_template_dry_20240506/
 
 location: FLI
 address:
@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: ''
 
-summary: '[An app release](https://gen100.leibniz-fli.de/shiny-odin/jlu/meta_template_dry_20230217/)'
+summary: '[An app release](https://gen100.leibniz-fli.de//shiny-3-6/jlu/meta_template_dry_20240506/)'
 abstract: 'This is an app trying to help you form your readme in a well-defined templet.'
 
 # Talk start and end times.

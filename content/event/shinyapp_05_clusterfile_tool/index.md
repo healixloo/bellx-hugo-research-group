@@ -2,7 +2,7 @@
 title: Geneset enrichment analysis by clusterprofile
 
 event: Access link
-event_url: https://gen100.leibniz-fli.de/shiny-odin/jlu/clusterProfiler_20230303/
+event_url: https://gen100.leibniz-fli.de//shiny-4-1/jlu/clusterProfiler_20230303_R4.1/
 
 location: FLI
 address:
@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: ''
 
-summary: '[An app release](https://gen100.leibniz-fli.de/shiny-odin/jlu/clusterProfiler_20230303/)'
+summary: '[An app release](https://gen100.leibniz-fli.de//shiny-4-1/jlu/clusterProfiler_20230303_R4.1/)'
 abstract: 'This is an app trying to help you do gene set enrichment analysis by the package of clusterprofile.'
 
 # Talk start and end times.

@@ -2,7 +2,7 @@
 title: Example Event
 
 event: Wowchemy Conference
-event_url: https://example.org
+event_url: https://gen100.leibniz-fli.de//shiny-4-1/jlu/
 
 location: Wowchemy HQ
 address:
