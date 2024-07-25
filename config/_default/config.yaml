@@ -71,8 +71,4 @@ security:
 sitemap:
   _merge: deep
 
-# Add the following parameter under a suitable section like params or appearance
-params:
-  custom_css:
-    - css/custom.css
 
