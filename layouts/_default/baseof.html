@@ -2,13 +2,7 @@
 <html lang="{{ .Site.Language.Lang }}">
 {{ partial "head" . }}
 <body>
-  <header>
-    {{ if .Site.Params.logo }}
-      <img src="{{ .Site.Params.logo }}" alt="{{ .Site.Title }}" style="height: 50px;">
-    {{ else }}
-      <h1>{{ .Site.Title }}</h1>
-    {{ end }}
-  </header>
+  {{ partial "header" . }}
   {{ block "main" . }}{{ end }}
   {{ partial "footer" . }}
 </body>
