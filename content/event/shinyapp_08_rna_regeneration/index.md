@@ -1,5 +1,5 @@
 ---
-title: Single cell atlas of intestine in mouse
+title: RNAseq of intestine regeneration in mouse
 
 event: Access link
 event_url: https://gen100.leibniz-fli.de//shiny-4-1/jlu/bulkRNAseqRegeneration_20220609/

@@ -1,5 +1,5 @@
 ---
-title: Single cell atlas of intestine in mouse
+title: Single cell dresden of intestine in mouse
 
 event: Access link
 event_url: https://gen100.leibniz-fli.de//shiny-4-1/jlu/dresden_scRNAseq_20240717/
