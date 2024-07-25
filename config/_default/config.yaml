@@ -71,5 +71,6 @@ security:
 sitemap:
   _merge: deep
 
+# Add the following parameter under a suitable section like params or appearance
 params:
-  logo: '/static/logo.png'  
+  logo: "/images/logo.png"  # Path to your logo image
