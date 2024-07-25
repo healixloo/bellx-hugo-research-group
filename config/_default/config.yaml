@@ -70,3 +70,6 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+params:
+  logo: '/static/logo.png'  
