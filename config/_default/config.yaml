@@ -73,7 +73,6 @@ sitemap:
 
 # Add the following parameter under a suitable section like params or appearance
 params:
-  logo: "/images/logo.png"  # Path to your logo image
   custom_css:
     - css/custom.css
 
