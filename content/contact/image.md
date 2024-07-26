@@ -7,7 +7,7 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 5
+weight: 20
 
 title:
 subtitle:
@@ -22,7 +22,10 @@ design:
     image_size: cover
     text_color_light: true
   spacing:
-    padding: ['5px', '0', '5px', '0']
+    padding: ['20px', '0', '20px', '0']
 advanced:
   css_class: fullscreen
+    - background-size: 200px 50px; /* Adjust width and height */
+    - background-repeat: no-repeat;
+    - background-position: center;
 ---
