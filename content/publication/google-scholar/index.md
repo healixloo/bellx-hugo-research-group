@@ -1,7 +1,7 @@
 ---
-title: Please check it in Google Scholar
+title: It is redirected to google scholar
 authors:
-  - admin
+  - Healix
 date: '2023-04-07T00:00:00Z'
 doi: ''
 

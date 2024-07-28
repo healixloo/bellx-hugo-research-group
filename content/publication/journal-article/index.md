@@ -1,16 +1,16 @@
 ---
-title: 'An example journal articel: I donot want to attach publications one by one'
+title: 'Characterization of an in vitro 3D intestinal organoid model by using massive RNAseq-based transcriptome profiling'
 authors:
-  - admin
-  - Robert Ford
+  - Jing Lu
+  - Francesco Neri
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
+date: '2021-08-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2021-08-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -22,10 +22,10 @@ publication_types: ['2']
 publication: '*Journal of Source Themes, 1*(1)'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Organoids culture provides unique opportunities to study human diseases and to complement animal models. Several organs and tissues can be in vitro cultured in 3D structures resembling in vivo tissue organization. Organoids culture contains most of the cell types of the original tissue and are maintained by growth factors mimicking the in vivo state. However, the system is yet not fully understood, and specific in vivo features especially those driven by cell-extrinsic factors may be lost in culture. Here we show a comprehensive transcriptome-wide characterization of mouse gut organoids derived from different intestinal compartments and from mice of different gender and age. RNA-seq analysis showed that the in vitro culture strongly influences the global transcriptome of the intestinal epithelial cells (~ 60% of the total variance). Several compartment-, age- and gender-related transcriptome features are lost after culturing indicating that they are driven by niche or systemic factors. However, certain intrinsic transcriptional programs, for example, some compartment-related features and a minority of gender- and aging- related features are maintained in vitro which suggested possibilities for these features to be studied in this system. Moreover, our study provides knowledge about the cell-extrinsic or cell-intrinsic origin of intestinal epithelial transcriptional programs. We anticipated that our characterization of this in vitro system is an important reference for scientists and clinicians using intestinal organoids as a research model.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Characterization of an in vitro 3D intestinal organoid model by using massive RNAseq-based transcriptome profiling.
 
 tags:
   - Source Themes
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.nature.com/articles/s41598-021-96321-8
 url_code: ''
 url_dataset: ''
 url_poster: ''

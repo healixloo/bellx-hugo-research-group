@@ -1,13 +1,13 @@
 ---
-title: 'An example conference paper: Please see my google scholar instead'
+title: 'Analysis of Tumour Mutation Burden (TMB) in Chinese Lung Adenocarcinoma: Implications for Clinical Practice'
 authors:
-  - admin
-  - Robert Ford
-date: '2013-07-01T00:00:00Z'
+  - K Zhang
+  - J Lu
+date: '2018-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2018-07-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,10 +19,16 @@ publication_types: ['1']
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: 'Objectives: Immune checkpoint blockades, such as PD-1/PD-L1 inhibitors, has recently shown remarkable clinical benefit in many types of cancers. Recent studies have revealed that TMB is highly correlated with immunotherapy efficacy. In this study, a method for evaluating TMB using CGP was established.
+
+Methods: Detection of TMB using CGP is based on the variant-calling method, which quantitates the specific mutations to calculate TMB. Its accuracy was confirmed by measuring it against data from TCGA and WES data of clinical samples. Detection of TMB by CGP was validated through the sequencing accuracy, CV, and the LOD of tumour purity. The TMB of Chinese lung adenocarcinoma samples were also analysed.
+
+Results: In our study, TMB measured by CGP was highly correlated with that measured by WES in 31 clinical tumour samples. The mean TMB was similar between 599 Chinese lung adenocarcinoma samples measured by CGP and 389 TCGA lung adenocarcinoma samples (7.29 vs 7.60 mutations/Mb). The high TMB was significantly correlated with the alteration of several genes, including TP53, KRAS and genes in DDR pathway. However, the low TMB was correlated with EGFR and ALK variations. Notably, we first discovered that the TMB was lower in Chinese early stage lung adenocarcinoma samples.
+
+Conclusions: Our study showed that TMB calculated by the CGP and WES was highly correlated. Based on the analysis of clinical samples, TMB was influenced by several gene alterations. The lower TMB might be related to the poor efficacy of mono-immunotherapy in patients with early stage lung adenocarcinoma.'
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Implications for Clinical Practice
 
 tags:
   - Source Themes
@@ -30,8 +36,8 @@ featured: true
 
 links:
   - name: Custom Link
-    url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+    url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3207876
+url_pdf: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3207876
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
