@@ -29,7 +29,7 @@ featured: false
 
 links:
   - name: Publication Details
-    url: ''
+    url: 'https://healixloo.github.io/jing.github.io/files/2024-07-27-publications.html'
     iframe: true                       
     src: "https://healixloo.github.io/jing.github.io/files/2024-07-27-publications.html"  
 url_pdf: ''
