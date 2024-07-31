@@ -4,7 +4,7 @@
 widget: contact
 
 # This file represents a page section.
-headless: true
+headless: false #true
 
 # Order that this section appears on the page.
 weight: 10
