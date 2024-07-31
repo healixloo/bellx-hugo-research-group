@@ -24,5 +24,20 @@ design:
   spacing:
     padding: ['0', '0', '0', '0'] #['20px', '0', '20px', '0']
 advanced:
-  css_class: fullscreen
+  #css_class: fullscreen
+   css_class: no-background
+---
+
+<style>
+.no-background {
+  background: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  min-height: 0 !important;
+  height: auto !important;
+}
+</style>
+
+
+
 ---
